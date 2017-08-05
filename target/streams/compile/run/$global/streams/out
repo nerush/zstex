@@ -1,7 +1,0 @@
-[0m[[0mdebug[0m] [0mjavaOptions: List(-Djava.library.path=lib/jni)[0m
-[0m[[0minfo[0m] [0mRunning com.zstex.Main Main[0m
-[0m[[31merror[0m] [0m2017-08-06 00:09:12.007370: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.[0m
-[0m[[31merror[0m] [0m2017-08-06 00:09:12.007416: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.[0m
-[0m[[31merror[0m] [0m2017-08-06 00:09:12.007425: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.[0m
-[0m[[31merror[0m] [0m2017-08-06 00:09:12.007430: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.[0m
-[0m[[0minfo[0m] [0mHello TensorFlow: 1.2.1[0m
