@@ -1,0 +1,57 @@
+compile
+reload
+compile
+exit
+run Main
+run
+exit
+run Main
+exit
+clean
+run Main
+package
+exit
+clean
+compile
+run Main
+console
+reload
+console
+reload
+clean
+compile
+console
+run Main
+clean
+compile
+run Main
+clean
+compile
+run Main
+clean
+compile
+run Main
+reload
+clean
+compile
+run Main
+clean
+compile
+run Main
+runMain
+main
+run main
+reload
+run Main
+reload
+clean
+compile
+run Main
+run main
+run
+reload
+run
+run Main
+reload
+run Main
+exit
